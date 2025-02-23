@@ -1,0 +1,6 @@
+@NPUApi_HostAddress = http://localhost:5049
+
+GET {{NPUApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
